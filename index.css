@@ -1,0 +1,42 @@
+body{
+    background-color: black;
+    color: white;
+    font-size: large;
+}
+
+a{
+    text-decoration: none;
+    color: greenyellow;
+}
+
+.graydiv{
+    display: block;
+    background-color: #36454f;
+    text-align: center;
+    margin: 0 auto 0 auto;
+    border: 3px white solid;
+    padding: 10px;
+    margin-bottom: 20px;
+    border-radius: 10px;
+    max-width:800px;
+}
+
+.verd{
+    font-family: Verdana;
+}
+
+.san{
+    font-family: sans-serif;
+}
+
+.rome{
+    font-family: 'Times New Roman';
+}
+
+.gill{
+    font-family: 'Gill Sans';
+}
+
+.googlefontone{
+    font-family: 'Lugrasimo', cursive;
+}
